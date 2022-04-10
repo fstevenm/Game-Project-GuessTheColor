@@ -12,4 +12,5 @@ This game is a game about guessing the color of the color in a word within 30 se
 
 
 You can see this project in the folder 'Guess The Color'
-Don't forget to provide the source if you use this project
+
+#### Don't forget to provide the source if you use this project!
